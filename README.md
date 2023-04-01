@@ -1,5 +1,3 @@
-# MY-ways
-
 function sumArray(array) {
   var sum = 0;
 
